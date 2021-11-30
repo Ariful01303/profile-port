@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 
 import Home from './components/Homes/Home/Home';
 import Intro from './components/Intro/Intro';
+import Detail from './components/Detail/Detail';
 
 function App() {
   return (
@@ -20,7 +21,9 @@ function App() {
       <Route  path="/home">
         <Home></Home>
       </Route>
-     
+      <Route path="/detail/:code">
+        <Detail></Detail>
+      </Route>
       
      </Switch>
      </BrowserRouter>

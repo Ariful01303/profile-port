@@ -1,14 +1,21 @@
 .contact-side{
-    background:#ffff;
-    color: #000;
+    background:white;
+    
     border-radius: 5px;
     padding: 10px;
     box-shadow: 5px 7px 10px 5px rgba(68, 22, 22, 0.541);
 }
 .cart-style{
-    background: black;
+    background: rgba(0, 0, 0, 0.671);
+    color:  #f193a1;
+    box-shadow: 5px 7px 10px gray;
+    border-radius: 20px;
+    height: 400px;
 
-    color: rgb(15, 15, 15);
+}
+.cart-style1{
+    background: rgba(0, 0, 0, 0.671);
+    color:  #f193a1;
     box-shadow: 5px 7px 10px gray;
     border-radius: 20px;
 }

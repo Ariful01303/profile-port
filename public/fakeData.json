@@ -4,25 +4,43 @@
        "name": "Bike BD",
       "start":"11st November 2021",
        "end":"15st November 2021",
-       "id": "924565010",
+       "id": "1",
+       "text1":"Bd Bike.Best Seller of Bike BD . Select Your Best Motor Bike And connet with us",
+       "text2":"In Our Bd Bike website you get all brand Bikes like Honda,Suzuki,YAMAHA,Apache,Hero,Bajaj ect.Our website Home You see Best Quelity Bikes And More Products You see All Quility of BikesIf You click Purchase Button You redirects to the login. After login, You will be redirected to the page You want to go.",
+       "text3":"If You login our website You see Dashboard.If you are not a admin you see Payment,my order,review .If you click Payment you pay products prices, If you click my order you will see all your order,or you can review this products this you can see home paze. If you are a admin you will see Add A Product, Make Admin, Manage Products,Manage All Orders.If you click add a products you add products this are show home page and more products, If you click make admin you can make a admin,or you can delete any products you delete manage products .if you control order like apprope or shipping you control manage all order.",
+       "pic1":"https://i.imgur.com/g2lHcc0.png",
+       "pic2":"https://i.imgur.com/jZIduCn.png",
+       "pic3":"https://i.imgur.com/qjkMfjp.png",
+       "photo":"https://i.imgur.com/g2lHcc0.png" ,
        "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
-       ,
-       "photo":"https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png" 
+       
     },
     {
        "name": "Tour BD",
       "start":"1st December 2021",
        "end":"10st November 2021",
-       "photo":"https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png",
-       "id": "924565010",
+       "photo":"https://i.imgur.com/3F8ZfoP.png",
+       "id": "2",
+       "pic1":"https://i.imgur.com/3F8ZfoP.png",
+       "text1":"Tour BD This website help you to tour world wide",
+       "text2":"At Home page You can see All Tour spot .There you choose any Tour spot and click detailse . ",
+       "text3":" At first you need create a account . you can easyly do it click login.You can choose your tourst spot and send to your details.Then We are conform your wish there you will want to go.my bookings click and see there booking touriet spots You can also added Tourist spot",
+       "pic2":"https://i.imgur.com/A1wbxJh.png",
+       "pic3":"https://i.imgur.com/6TKYTIJ.png",
        "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
     },
     {
        "name": "DenTal Care",
       "start":"1st October 2021",
        "end":"10st October 2021",
-       "id": "924565010",
-       "photo":"https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png",
+       "id": "3",
+       "text1":"Dantal Care. Dantal Care website help your any dental problem . Choose your services section you have to need",
+       "text2":" Our website have many dental problem solusition services.You have suffering dantal problem our website help you.Our dentists are expart their work.Our Tecnology are updated So at last I can say that If your have Dental problem you visite our website and Appointment our Dentists",
+       "text3":"At first you need create a account . you can easyly do it click login.You can choose your service",
+       "pic1":"https://i.imgur.com/l8yOZrL.png",
+       "pic2":"https://i.imgur.com/ZzaRHfn.png",
+       "pic3":"https://i.imgur.com/jy55rgK.png",
+       "photo":"https://i.imgur.com/l8yOZrL.png",
        "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
     }
 

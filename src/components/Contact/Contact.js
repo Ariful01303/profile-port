@@ -1,6 +1,7 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import emailjs from 'emailjs-com';
 import './Contact.css'
+import Aos from 'aos';
 
 const Result=()=>{
    return(
@@ -8,6 +9,12 @@ const Result=()=>{
    )
 }
 const Contact = () => {
+    useEffect(()=>{
+        Aos.init({
+            offset:100,
+            duration:1000,
+        });
+    })
     const form = useRef();
       const [result,setResult]=useState(false);
     const sendEmail = (e) => {
@@ -30,15 +37,15 @@ const Contact = () => {
              <form ref={form} onSubmit={sendEmail}>
    
      <div className="p-5">
-     <input className="p-2 m-2 w-50" type="text" name="fullName" placeholder="Your Name" />
+     <input className="p-2 m-2 w-50" data-aos="fade-down" type="text" name="fullName" placeholder="Your Name" />
       <br />
   
-      <input className="p-2 m-2 w-50"type="email" name="email" placeholder="Your Email" />
+      <input className="p-2 m-2 w-50" data-aos="fade-down" type="email" name="email" placeholder="Your Email" />
       <br />
      
-      <textarea className="p-2 m-2 w-50" name="message" placeholder="Your Message" />
+      <textarea className="p-2 m-2 w-50" data-aos="fade-up" name="message" placeholder="Your Message" />
       <br />
-      <input className="btn btn-primary" type="submit" value="Send" />
+      <input className="btn btn-primary" data-aos="fade-up" type="submit" value="Send" />
       <div className="mt-5">
      {result ? <Result/>:null}
       </div>
